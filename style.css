@@ -25,7 +25,7 @@ header {
 }
 
 body {
-    background-color: rgb(207, 3, 69);
+    background-color: rgb(8, 0, 2);
     /* background-image: url(https://cdn.discordapp.com/attachments/372804664053334016/1045717691945730068/unknown.png); */
     font-size: 18px;
     font-family: "Roboto Condensed", sans-serif;
@@ -38,7 +38,7 @@ nav {
     display: flex;
     font-size: 18px;
     font-family: Roboto Condensed;
-    background-color: rgb(123,104,238);
+    background-color: rgb(130,61,255);
     position: fixed;
     width:100vw;
     justify-content: 30px;
@@ -137,7 +137,7 @@ figcaption {
 }
 
 footer {
-    background-color: rgb(123,104,238);
+    background-color: rgb(130,61,255);
     height: 8vh;
     display: flex;
     float: middle;
