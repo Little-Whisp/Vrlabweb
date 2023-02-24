@@ -25,7 +25,7 @@ header {
 }
 
 body {
-    background-color: rgb(25,25,112);
+    background-color: rgb(207, 3, 69);
     /* background-image: url(https://cdn.discordapp.com/attachments/372804664053334016/1045717691945730068/unknown.png); */
     font-size: 18px;
     font-family: "Roboto Condensed", sans-serif;
@@ -41,16 +41,9 @@ nav {
     background-color: rgb(123,104,238);
     position: fixed;
     width:100vw;
-    justify-content:space-between;
+    justify-content: 30px;
 }
 
-nav a {
-    display: block;
-    text-align: center;
-    height: 100%;
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-}
 
 nav div {
     padding: 22px;
@@ -101,7 +94,7 @@ h2 {
 
 
 section div {
-    background-color: rgb(123,104,238);
+    background-color: rgb(130,61,255);
     margin: auto;
     padding-top: 3vh;
     padding-bottom: 3vh;
@@ -113,6 +106,7 @@ section div {
 img {
     width: 85%;
     margin: auto;
+    border-radius: 10px;
     display: flex;
     float: middle;
 }
@@ -127,10 +121,11 @@ img {
 }
 
 section {
-    background-color: rgb(123,104,238);
+    background-color: rgb(130,61,255);
     margin: 20px auto;
     font-size: 1.1em;
     max-width: 800px;
+    border-radius: 10px;
 }
 
 figcaption {
